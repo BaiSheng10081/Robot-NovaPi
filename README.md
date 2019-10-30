@@ -6,7 +6,7 @@
 ###### Email: baisheng10081@gmail.com
 ## **NovaPi-LMove-Rshoot-Python.mblock**
 
-<img src="READMEData/IMG_1057.jpeg" alt="NovaPi">
+<img width="75%" src="READMEData/IMG_1057.jpeg" alt="NovaPi">
 
 ### ***Move Motor Pin Chanel***
 ```python
