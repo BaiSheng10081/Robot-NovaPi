@@ -2,7 +2,6 @@
 # 本專案適用mBlock-NovaPi
 ###### _Power by BaiSheng10081_
 ###### `[Python]`
-###### TG: https://t.me/c/1453792738/106
 ###### Email: baisheng10081@gmail.com
 ## **NovaPi-LMove-Rshoot-Python.mblock**
 
